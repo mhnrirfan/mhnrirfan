@@ -1,10 +1,13 @@
-## Hi there, nice to meet you virtually :) 👋
+## Hi there, nice to meet you virtually! 👋
 
-<!--
+Welcome to my GitHub space! Here's a little about me:
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on a personal project: **Machine Learning Methods to Reduce Accidents in Autonomous Vehicles** 🚗💡  
+- 🌱 This semester, I'm studying:  
+  - **Applied AI**  
+  - **Web Programming**  
+  - **Data Mining and Visualization**  
+  - **Statistics for Data Science**  
+  - **Database and SQL**  
+  - **Programming Fundamentals**
 
-- 🔭 I’m currently working on a personal project - machine learning methods to reduce accidents in autonomous vehicles
-- 🌱 This semester currently studying - applied ai, web programming, data mining and visualisation, statisitics for data science 
-
--->
