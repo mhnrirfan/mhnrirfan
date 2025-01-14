@@ -11,3 +11,6 @@ Welcome to my GitHub space! Here's a little about me:
   - **Database and SQL**  
   - **Programming Fundamentals**
 
+📄 [View My CV](https://your-link-to-cv.com)
+
+Feel free to explore my repositories and connect with me. Let’s create something amazing together! 😊
